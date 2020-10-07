@@ -45,8 +45,8 @@ body {
 
 .buttons{ position: absolute;
    top: 70px;
-   right: 160px;
-    display: flex;
+   /*right: 160px;
+    */display: flex;
   
 }
 .button { 
