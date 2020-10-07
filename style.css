@@ -45,8 +45,8 @@ body {
 
 .buttons{ position: absolute;
    top: 70px;
-   /*right: 160px;
-    */display: flex;
+   right: 400px;
+   display: flex;
   
 }
 .button { 
@@ -122,7 +122,7 @@ h2{
     padding-left: 30px;
     position: absolute;
     top: 660px;
-    right: 160px;
+    right: 400px;
 }
 p1{
    
